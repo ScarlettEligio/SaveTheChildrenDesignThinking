@@ -2,10 +2,11 @@
 
 ## Descripción
 
-![proceso](https://user-images.githubusercontent.com/32875483/38582798-94726e6a-3cd6-11e8-99f3-da0dc73d4b20.png)
-Example
-
 *Save The Children* cuenta con un grant de Google Adwords con el cual se dirige el tráfico a la landing page https://apoyo.savethechildren.mx/defensores-de-la-ninez-t2 con el objetivo de generar donadores recurrentes.
+
+![saveoptimizada](https://user-images.githubusercontent.com/32875483/38586198-8083161e-3ce2-11e8-8118-4c2690c97b1b.png)
+
+Desarrollado para: Save the Children
 
 Los indices de conversión a lead y a donantes son mínimos.
 
