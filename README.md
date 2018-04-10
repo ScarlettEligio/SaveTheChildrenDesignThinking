@@ -1,4 +1,4 @@
-# Proyecto Save the Children| Track UX _Laboratoria_
+# Proyecto Save the Children 
 
 ## Descripción
 
