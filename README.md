@@ -26,7 +26,8 @@ Integrante| Puesto |
 
 Para resolver el problema planteado nos guiaremos por la disciplina Design Thinking para hacer coincidir las necesidades de las personas con lo que es tecnológicamente factible y con el cumplimiento del objetivo de negocio.
 
-![proceso](https://user-images.githubusercontent.com/32875483/38582798-94726e6a-3cd6-11e8-99f3-da0dc73d4b20.png)
+![disenocentrado](https://user-images.githubusercontent.com/32875483/38584134-02a3b282-3cdb-11e8-90b3-8fefe5b14588.png)
+
 ![Design Thinking](assets/images/designThinking.png "Optional title attribute")
 
 #### Empatizar 
