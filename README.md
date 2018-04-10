@@ -1,6 +1,9 @@
 # Proyecto Save the Children| Track UX _Laboratoria_
 
-## Reto
+## Descripción
+
+![proceso](https://user-images.githubusercontent.com/32875483/38582798-94726e6a-3cd6-11e8-99f3-da0dc73d4b20.png)
+Example
 
 *Save The Children* cuenta con un grant de Google Adwords con el cual se dirige el tráfico a la landing page https://apoyo.savethechildren.mx/defensores-de-la-ninez-t2 con el objetivo de generar donadores recurrentes.
 
