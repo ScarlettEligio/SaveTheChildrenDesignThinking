@@ -26,26 +26,30 @@ Integrante| Puesto |
 
 Para resolver el problema planteado nos guiaremos por la disciplina Design Thinking para hacer coincidir las necesidades de las personas con lo que es tecnológicamente factible y con el cumplimiento del objetivo de negocio.
 
-![disenocentrado](https://user-images.githubusercontent.com/32875483/38584134-02a3b282-3cdb-11e8-90b3-8fefe5b14588.png)
-
 ![Design Thinking](assets/images/designThinking.png "Optional title attribute")
+
+![disenocentrado](https://user-images.githubusercontent.com/32875483/38584134-02a3b282-3cdb-11e8-90b3-8fefe5b14588.png)
 
 #### Empatizar 
 
-Investigar
-Entender
+Se realiza la investigación para lograr el entendimiento de nuestros usuarios.
 
-Definimos mapa de empatia.
-Diseñamos y ejecutamos una encuesta.
-Obtención de insights
+Definimos mapa de empatia
+![empathy-map-canvas](https://user-images.githubusercontent.com/32875483/38584402-d2e73658-3cdb-11e8-9c4e-da3971b787cf.png)
+Realizamos las encuestas pertinentes apoyandonos con invision y supervisión a usuarios por parte de miembros del equipo.
+![1encuesta](https://user-images.githubusercontent.com/32875483/38585090-398629d0-3cde-11e8-92a3-b6312ade5578.png)
+![2encuesta](https://user-images.githubusercontent.com/32875483/38585091-399c573c-3cde-11e8-99ed-c79f12873691.png)
+Obtención de insights:
+Saturación de contenidos.
+Poca claridad hacia el usuario.
+Confusión y desconfianza.
+
 
 #### Definir 
-Diseñar 
-Plasmar
+Se definen los user personas 
+![babyboomer_im](https://user-images.githubusercontent.com/32875483/38585650-3b96dea2-3ce0-11e8-9840-cec214bf2b2c.png)
+![user_persona_savethechildren](https://user-images.githubusercontent.com/32875483/38585651-3baab77e-3ce0-11e8-94bf-4e26cf73affb.png)
 
-Definimos un perfil de usuario
-Definimos necesidades de usuario
-Definimos objetivos de negocio
 
 Creamos una oportunidad de negocio
 
