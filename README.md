@@ -66,16 +66,17 @@ Donar a una institución que le brinde sentido de pertenencia de manera confiabl
 
 #### Idear 
 
-Entendimos el contexto y nos inspiramos. Se decide reestructurar arquitectura de la información reduciendo contenido de landing actual:
+Entendimos el contexto y nos inspiramos. Se decide reestructurar arquitectura de la información reduciendo contenido actual (1,159 palabras) del landing actual:
 ![saveoriginal](https://user-images.githubusercontent.com/32875483/38586200-809bea86-3ce2-11e8-9dd2-2e644ac62939.png)
 
-1,159 palabras.
+
 Estilo blog con formulario y botones de acción. 
 Saturación de contenido.Se pierden los aliados estratégicos.
 Demasiados distractores (links ajenos a objetivo de negocio)
 
 Hicimos lluvia de ideas de la solucion
-Construimos el scope canvas
+Construimos el 
+#### Scope canvas
 
 ![savethechildren-bmodel](https://user-images.githubusercontent.com/32875483/38585923-4ac5885a-3ce1-11e8-8328-d266dc41fba8.png)
 
@@ -84,10 +85,10 @@ Construimos el scope canvas
 
 El equipo en su totalidad se reune para confirmar el resultado de la lluvia de ideas y consolidar una landing page 
 
-Sketches del landing page
+Sketches del landing page que distan mucho de los sketches individuales, ya que se realizan en proceso creativo colectivo en donde la practica individual se vuelve indispensable para seleccionar los features más importantes
 ![2sketc](https://user-images.githubusercontent.com/32875483/38585864-10c2ea9e-3ce1-11e8-8ae4-fbf399290a23.jpg)
 
-Que dista mucho de los sketches individuales 
+
 
 #### Evaluar 
 Testing supervisado con usuarios 
