@@ -110,4 +110,7 @@ Testing supervisado con usuarios
 ********************************************************************************
 
 # Save The Children
+## Descripcion
+*Save The Children* cuenta con un grant de Google Adwords con el cual se dirige el trafico a la landing page https://apoyo.savethechildren.mx/defensores-de-la-ninez-t2 con el objetivo de generar donadores recurrentes.
+Problema: Los indices de conversión a lead y a donantes son mínimos.
 ### < l a b o r a t o r i a >
