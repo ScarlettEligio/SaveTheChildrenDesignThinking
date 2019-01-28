@@ -31,8 +31,8 @@ Integrante| Puesto |
 
 Para resolver el problema planteado nos guiaremos por la disciplina Design Thinking para hacer coincidir las necesidades de las personas con lo que es tecnológicamente factible y con el cumplimiento del objetivo de negocio.
 
-img src="assets/images/designThinking.png" alt="some"
-	title="thing" width="150" height="100" />
+<img src="assets/images/designThinking.png" alt="some"
+	title="thing" width="250" height="250" />
  
 
 ![disenocentrado](https://user-images.githubusercontent.com/32875483/38584134-02a3b282-3cdb-11e8-90b3-8fefe5b14588.png)
